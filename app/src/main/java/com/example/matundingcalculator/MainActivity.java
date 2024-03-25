@@ -77,9 +77,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 num1.setText("");
                 num2.setText("");
-
-
-
+                result.setText("0");
             }
         });
     }
